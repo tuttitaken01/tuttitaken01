@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Valentina
+- 👀 I’m interested in science, tech, and music
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: coming soon
+- 🤡 Currently trying to figure out my life
