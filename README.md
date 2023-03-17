@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valentina
-- 👀 I’m interested in science, tech, and music
+- 👀 I’m interested in AI, tech, and science
 - 🌱 full-stack development
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me quickest: Linkedin
 - 👉 Checkout my final group project with Northcoders [here](https://github.com/VladStoyanovADP/Habit-Tracker)!
 - 🤡 page updating...
