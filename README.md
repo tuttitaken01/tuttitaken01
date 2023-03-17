@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Valentina
 - 👀 I’m interested in science, tech, and music
-- 🌱 I’m currently learning full-stack development
+- 🌱 full-stack development
 - 📫 How to reach me: Linkedin
+- 👉 Checkout my final group project with Northcoders [here](https://github.com/VladStoyanovADP/Habit-Tracker)!
 - 🤡 page updating...
