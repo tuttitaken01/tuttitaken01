@@ -3,5 +3,5 @@
 - 🌱 full-stack development
 - 📫 How to reach me quickest: Linkedin
 - 🎮 Feel free to checkout my progress here: Portfolio-Project, Portfolio-Project-2, Weather-App, and Memory-Game
-- 👉 Checkout my final group project with Northcoders [here](https://github.com/VladStoyanovADP/Habit-Tracker)!
+- 👉 Checkout my final group project with Northcoders [here](https://github.com/VladStoyanovADP/Habit-Tracker)! (at the end of the README.md file there's a comprehensive instruction section I had fun writing for our back-end side of the project)
 - 🤡 page updating...
