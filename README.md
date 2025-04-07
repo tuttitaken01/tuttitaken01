@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Valentina
-- 👀 I’m interested in science, tech, and Gen AI
+- 👀 I’m a creative tech enthusiast interested in science and Gen AI
 - 🌱 full-stack development, with a preference for front-end and design
 - 📫 How to reach me quickest: Linkedin
-- 🎮 Feel free to checkout my progress in the repos here: Portfolio-Project, Portfolio-Project-2, Weather-App, and Memory-Game
+- 🎮 Feel free to checkout some of my progress in the repos here: Portfolio-Project, Portfolio-Project-2, Weather-App, and Memory-Game
 - 👉 Checkout my final group project with Northcoders [here](https://github.com/VladStoyanovADP/Habit-Tracker)! (at the end of the README.md file there's a comprehensive instruction section I had fun writing for our back-end side of the project)
 - 📧 page constantly updating...
